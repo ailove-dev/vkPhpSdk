@@ -3,9 +3,11 @@
     "description":  "vk php sdk",
     "keywords":     ["VK", "VKontakte", "Symfony2", "SDK", ""],
     "type":         "library",
+    "homepage":     "https://github.com/ailove-dev/vkPhpSdk.git",
     "authors":      [
         {
-            "name":      "AndreyGeonya"
+            "name":      "AndreyGeonya",
+            "email":    "unkown@mail.com"
         }
     ],
     "require": {
