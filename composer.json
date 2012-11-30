@@ -1,0 +1,17 @@
+{
+    "name":         "ailove-dev/vk-php-sdk",
+    "description":  "",
+    "keywords":     ["VK", "VKontakte", "Symfony2", "SDK", ""],
+    "type":         "library",
+    "authors":      [
+        {
+            "name":      "AndreyGeonya",
+        }
+    ],
+    "require": {
+        "php":                           ">=5.3.1",
+    },
+    "autoload": {
+        "classmap": ["classes", "interfaces"]
+    }
+}
