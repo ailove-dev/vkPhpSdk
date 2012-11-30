@@ -6,7 +6,7 @@
     "homepage":     "https://github.com/ailove-dev/vkPhpSdk.git",
     "authors":      [
         {
-            "name":      "AndreyGeonya",
+            "name":      "AndreyGeonya"
         }
     ],
     "require": {
