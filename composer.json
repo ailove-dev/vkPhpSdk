@@ -1,9 +1,9 @@
 {
-    "name":         "ailove-dev/vk-php-sdk",
+    "name":         "nguyentienlong/vk-php-sdk",
     "description":  "vk php sdk",
     "keywords":     ["VK", "VKontakte", "Symfony2", "SDK"],
     "type":         "library",
-    "homepage":     "https://github.com/ailove-dev/vkPhpSdk.git",
+    "homepage":     "https://github.com/nguyentienlong/vkPhpSdk.git",
     "authors":      [
         {
             "name":      "AndreyGeonya"
